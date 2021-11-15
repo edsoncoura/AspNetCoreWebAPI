@@ -1,9 +1,10 @@
 using System.Collections.Generic;
 
-namespace SmatSchool.WebAPI.Models
+namespace SmartSchool.WebAPI.Models
 {
     public class Disciplina
     {
+        public Disciplina() { }
         public Disciplina(int id, string nome, int professorId )
         {
             this.Id = id;

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmatSchool.WebAPI", "SmatSchool.WebAPI\SmatSchool.WebAPI.csproj", "{BFF47BBE-F049-4FC6-A425-775A9794E6CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSchool.WebAPI", "SmartSchool.WebAPI\SmartSchool.WebAPI.csproj", "{BFF47BBE-F049-4FC6-A425-775A9794E6CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
